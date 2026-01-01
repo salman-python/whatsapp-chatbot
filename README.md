@@ -1,6 +1,3 @@
-## Author
-Muhammad Salman Kazam
-
 # 📱 WhatsApp Chatbot using Flask & WhatsApp Cloud API
 
 A production-ready WhatsApp chatbot built with **Python, Flask, and Meta WhatsApp Cloud API**.
@@ -35,4 +32,8 @@ A production-ready WhatsApp chatbot built with **Python, Flask, and Meta WhatsAp
 ```bash
 pip install -r requirements.txt
 python app.py
+
+## Author
+Muhammad Salman Kazam
+
 
